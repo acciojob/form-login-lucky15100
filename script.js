@@ -1,3 +1,4 @@
+// Function to handle form submission
 function getFormvalue() {
   // Get a reference to the form element
   const form = document.getElementById("form1");
